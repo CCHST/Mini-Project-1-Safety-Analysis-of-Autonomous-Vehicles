@@ -21,7 +21,7 @@
                 },
                 "meta": {
                     "duration_game": 18.925000282004476,
-                    "duration_system": 51.04496765136719,
+                    "duration_system": 57.94795632362366,
                     "route_length": 131.56012567009267
                 },
                 "route_id": "RouteScenario_0",
