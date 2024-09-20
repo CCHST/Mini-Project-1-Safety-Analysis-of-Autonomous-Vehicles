@@ -12,7 +12,7 @@
                     "collisions_layout": [],
                     "collisions_pedestrian": [],
                     "collisions_vehicle": [
-                        "Agent collided against object with type=vehicle.tesla.model3 and id=323 at (x=193.126, y=-22.683, z=0.035)"
+                        "Agent collided against object with type=vehicle.tesla.model3 and id=323 at (x=193.122, y=-22.636, z=0.035)"
                     ],
                     "outside_route_lanes": [],
                     "red_light": [],
@@ -23,7 +23,7 @@
                 },
                 "meta": {
                     "duration_game": 10.05000014975667,
-                    "duration_system": 26.93295931816101,
+                    "duration_system": 30.403679847717285,
                     "route_length": 131.56012567009267
                 },
                 "route_id": "RouteScenario_0",
